@@ -1,0 +1,38 @@
+{
+  "dataVersion": "4.2",
+  "budgetDataGUID": null,
+  "deviceGUID": "6A8D5B3A-C28A-4E2C-5ACD-D5EFCD6DF4C2",
+  "startVersion": "A-92",
+  "endVersion": "A-94",
+  "shortDeviceId": "A",
+  "formatVersion": null,
+  "publishTime": "Sat Apr 26 13:44:52 GMT+0100 2014",
+  "items": [
+    {
+      "categoryId": "A17",
+      "parentMonthlyBudgetId": "MB/2014-04",
+      "isTombstone": false,
+      "entityVersion": "A-93",
+      "madeWithKnowledge": null,
+      "budgeted": 50,
+      "isResolvedConflict": false,
+      "overspendingHandling": null,
+      "note": null,
+      "entityType": "monthlyCategoryBudget",
+      "entityId": "MCB/2014-04/A17"
+    },
+    {
+      "categoryId": "A18",
+      "parentMonthlyBudgetId": "MB/2014-04",
+      "isTombstone": false,
+      "entityVersion": "A-94",
+      "madeWithKnowledge": null,
+      "budgeted": 50,
+      "isResolvedConflict": false,
+      "overspendingHandling": null,
+      "note": null,
+      "entityType": "monthlyCategoryBudget",
+      "entityId": "MCB/2014-04/A18"
+    }
+  ]
+}

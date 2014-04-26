@@ -1,0 +1,13 @@
+{
+	"lastDataVersionFullyKnown": "4.2",
+	"deviceType": "Desktop (AIR), OS:Mac OS 10.9.2",
+	"highestDataVersionImported": null,
+	"friendlyName": "ishtar",
+	"knowledgeInFullBudgetFile": "A-132",
+	"hasFullKnowledge": true,
+	"knowledge": "A-132",
+	"shortDeviceId": "A",
+	"formatVersion": "1.2",
+	"deviceGUID": "6A8D5B3A-C28A-4E2C-5ACD-D5EFCD6DF4C2",
+	"YNABVersion": "Desktop version: YNAB 4 v4.3.451 (com.ynab.YNAB4.LiveCaptive), AIR Version: 4.0.0.1390"
+}
